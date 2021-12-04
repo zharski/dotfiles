@@ -8,6 +8,7 @@ brew cask install iterm2
 brew install zsh zsh-completions
 brew install curl
 brew cask install sourcetree
+brew install --cask timemachineeditor
 
 brew cask install alfred
 brew cask install caffeine
